@@ -1,0 +1,28 @@
+.detalhesEvento{
+    box-shadow: 0px 0px 5px gray;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 60px;
+}
+.nomeConvidado{
+    box-shadow: 0px 0px 5px gray;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 60px;
+}
+.formConvidado{
+    width: 50%;
+}
+.formCadastro{
+    box-shadow: 0px 0px 5px gray;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 60px;
+    padding-bottom: 10px;
+}
+.searchP{
+    padding-right: 100px;
+}
